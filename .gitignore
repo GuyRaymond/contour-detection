@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+# Pycache
+app/__pycache__/
+# Temporary files from editors
+*.swp
+*.swo
+*.bak
+*.tmp
+*.~
+# Emacs files
+*~
+.#*
+
