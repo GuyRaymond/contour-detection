@@ -1,6 +1,6 @@
 # Contour Detection Project
 
-This project detects faces in an image and draws rectangles around detected faces using OpenCV.
+This project detects contours in an image and draws curves around detected contours using OpenCV.
 
 ## Setup
 
