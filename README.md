@@ -1,4 +1,4 @@
-# Face Detection Project
+# Contour Detection Project
 
 This project detects faces in an image and draws rectangles around detected faces using OpenCV.
 
